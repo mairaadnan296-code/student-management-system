@@ -256,10 +256,5 @@ Information Technology Student
 
 ---
 
-## Internship Task
-
-This project was developed as part of the NexaSecure Software Development Internship Program.
-
-**Week 1 Task:** Programming Fundamentals & GitHub Setup
 
 **Project Type:** Console-Based Student Management System
