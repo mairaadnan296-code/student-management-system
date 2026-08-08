@@ -1,0 +1,51 @@
+[
+    {
+        "student_id": 1,
+        "roll_number": 1,
+        "name": "maira",
+        "email": "maira@gmail.com",
+        "phone": "03123456789",
+        "department": "information technology",
+        "program": "Bs",
+        "attendance": 98.0,
+        "courses": [
+            {
+                "course_name": "data structure",
+                "marks": 78.0,
+                "grade": "B"
+            },
+            {
+                "course_name": "oop",
+                "marks": 80.0,
+                "grade": "A"
+            },
+            {
+                "course_name": "calculas",
+                "marks": 90.0,
+                "grade": "A+"
+            }
+        ]
+    },
+    {
+        "student_id": 3,
+        "roll_number": 3,
+        "name": "minahil",
+        "email": "mina@gmail.com",
+        "phone": "03123456789",
+        "department": "information ttechnology",
+        "program": "Bs",
+        "attendance": 79.0,
+        "courses": [
+            {
+                "course_name": "computer networking",
+                "marks": 89.0,
+                "grade": "A"
+            },
+            {
+                "course_name": "expository writing",
+                "marks": 80.0,
+                "grade": "A"
+            }
+        ]
+    }
+]
